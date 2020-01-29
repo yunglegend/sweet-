@@ -1,0 +1,40 @@
+import turtle as t 
+t.forward(100) #means distance  
+t.left(90) #means 90 degrees 
+t.forward(100)
+t.left(90)
+t.forward(100)
+t.left(90)
+t.forward(100)
+t.left(5)
+#to make new square copy paste for all steps.
+
+t.left(5)
+t.color("blue")
+t.forward (100)
+t.left(90)
+t.forward (100)
+t.left (90)
+t.forward (100)
+t.left (90)
+t.forward (100)
+
+t.left(5)
+t.color("red")
+t.forward (100)
+t.left(90)
+t.forward (100)
+t.left (90)
+t.forward (100)
+t.left (90)
+t.forward (100)
+
+t.left(5)
+t.color("yellow")
+t.forward (100)
+t.left(90)
+t.forward (100)
+t.left (90)
+t.forward (100)
+t.left (90)
+t.forward (100)
